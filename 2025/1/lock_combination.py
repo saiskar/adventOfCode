@@ -1,5 +1,5 @@
 def read_file():
-    file_path = "input.txt"
+    file_path = "full_input.txt"
     current = 50
     ans = 0
     try:
